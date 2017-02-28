@@ -1,0 +1,21 @@
+{
+  "name": "MyApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "mockjs": "^1.0.0",
+    "react": "^0.14.8",
+    "react-native": "^0.22.2",
+    "react-native-audio": "^2.1.0",
+    "react-native-button": "^1.7.1",
+    "react-native-image-picker": "^0.20.2",
+    "react-native-progress": "^3.1.0",
+    "react-native-sk-countdown": "^1.0.1",
+    "react-native-vector-icons": "^2.0.2",
+    "react-native-video": "^0.9.0",
+    "sha1": "^1.1.1"
+  }
+}
